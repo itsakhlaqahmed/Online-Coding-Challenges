@@ -1,6 +1,6 @@
 # Hello Fam!
 
-# It is repo which contains my solutions to some of the coding challenges
+## It is repo which contains my solutions to some of the coding challenges
 
 They are surely not all of them. I'll try to group them and upload them in this repo.
 Most (almost all) of the challenges are solved using Python. 
